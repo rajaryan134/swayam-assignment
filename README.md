@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/rajaryan134/swayam-assignment/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/rajaryan134/swayam-assignment/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/rajaryan134/swayam-assignment/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
