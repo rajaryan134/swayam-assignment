@@ -1,9 +1,0 @@
-{
-    "git.enableSmartCommit": true,
-    "git.autofetch": true,
-    "git.confirmSync": false,
-    "git.terminalAuthentication": true,
-    "terminal.integrated.shell.osx": "/bin/zsh",
-    "git.autorefresh": true,
-    "git.showPushSuccessNotification": true
-}
