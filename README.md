@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/rajaryan134/swayam-assignment/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
