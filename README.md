@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/rajaryan134/swayam-assignment/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/rajaryan134/swayam-assignment/tree/master/0724-find-pivot-index) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rajaryan134/swayam-assignment/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
