@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rajaryan134/swayam-assignment/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/rajaryan134/swayam-assignment/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rajaryan134/swayam-assignment/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rajaryan134/swayam-assignment/tree/master/0136-single-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajaryan134/swayam-assignment/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rajaryan134/swayam-assignment/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajaryan134/swayam-assignment/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rajaryan134/swayam-assignment/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
